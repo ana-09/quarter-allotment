@@ -1,2 +1,2 @@
 # quarter-allotment
-online portal for quarter allotment
+a quarter allotment portal
